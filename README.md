@@ -1,4 +1,9 @@
-Weather Dashboard using WeatherAPI & Power BI
+# About Me
+I am a motivated and detail-oriented Power BI Developer (Fresher) actively seeking job opportunities in the field of Data Analytics and Business Intelligence. With hands-on experience in building interactive dashboards using Power BI, DAX, SQL, Excel, and REST APIs, I have developed projects such as a Mobile Sales Dashboard and a Weather Analytics Dashboard (linked below). I am passionate about transforming data into meaningful insights that support business decisions.
+
+Currently based in Pune, I am available for full-time entry-level roles, and eager to contribute to data-driven projects in a professional environment.
+
+# Weather Dashboard using WeatherAPI & Power BI
 This project is a visually interactive weather monitoring dashboard created using Power BI, which fetches live and forecast weather data via the WeatherAPI. The dashboard displays real-time temperature, humidity, air quality index, UV index, wind speed, and 7-day weather forecasts for multiple cities like Pune, Kolhapur, Mumbai, and Nagpur.
 
 Features
